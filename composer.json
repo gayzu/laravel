@@ -1,5 +1,5 @@
 {
-    "name": "laravel/laravel",
+    "name": "gayzu/laravel",
     "type": "project",
     "description": "The Laravel Framework.",
     "keywords": ["framework", "laravel"],
@@ -50,8 +50,6 @@
                 "chmod -R 755 bootstrap\/cache",
                 "php artisan cache:clear"
         ]
-    
-    
     },
     "extra": {
         "laravel": {
