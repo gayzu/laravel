@@ -22,3 +22,7 @@ Route::get('/', function () {
 Route::get('/audience', function () {
     return view('audience');
 });
+
+Route::get('/brnand', function () {
+    return view('audience');
+});
