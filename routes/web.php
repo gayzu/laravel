@@ -18,7 +18,6 @@ Route::get('/', function () {
 });
 
 
-
 Route::get('/audience', function () {
     return view('audience');
 });
