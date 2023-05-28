@@ -21,6 +21,6 @@ Route::get('/audience', function () {
     return view('audience');
 });
 
-Route::get('/brnand', function () {
+Route::get('/brand', function () {
     return view('audience');
 });
